@@ -42,6 +42,13 @@ This application represents a seamless integration of technology, aimed at provi
 # Admin Show Route Function
 ![b1d2a542065794f28e03a309b9c113ab56c4247b](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/1fb1d584-95bd-4a77-bc71-5e0fb66b1071)
 
+# Update Admin Information
+![8c6bac6cf6d2be79de01c68e6793fd25f363a08d](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/adba4813-82f4-47eb-8734-8d0abcc734a1)
+
+# Show Report for all System Data
+![44c91d53c9f6fb5690763f87127a9ea805a26d46](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/600771a3-f3a3-4657-b594-643e80596ee6)
+
+
 
 
 
