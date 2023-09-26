@@ -20,7 +20,27 @@ This application represents a seamless integration of technology, aimed at provi
 # Admin Access Console
 ![7c84ee3820857209cbfffa41d18bef72fc718abc](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/6a1d973e-c436-4b56-a424-803930779cb8)
 ![dbc9079599335d91de12c2fee7026b0801da572d](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/3c7a785f-6d1b-4955-a5a4-9c4564ae409c)
+# Admin Functionalities 
+![3302913b264c060c24bcb7529df2544370694a76](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/1e0f1ef3-d23d-498d-81c3-6b18fb6449fb)
+![bf945e5f4f28b52cef777effe8bb1aaf35da5d1d](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/14fd85de-df59-41c2-99b2-1f52eae56a6e)
 
+# Admin Add Train Function 
+![f4f3ea439d059ff46c85ec96c62be59a53ce088e](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/fd18d95c-0a5e-44e2-a4c4-a4049f94a690)
+
+# Admin Add Trip Function 
+![d1eef69ef422b9c2d1e1717eabd6eaad670fb91d](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/229bcb98-11ce-425b-9603-15ae71f0c0ed)
+
+# Admin Update Train Function 
+![f4f3ea439d059ff46c85ec96c62be59a53ce088e](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/cdfbbbee-36d1-44ce-ba70-d97d869ce168)
+
+# Admin Update Trip Function
+![d1eef69ef422b9c2d1e1717eabd6eaad670fb91d](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/229bcb98-11ce-425b-9603-15ae71f0c0ed)
+
+# Admin Delete Trip Function
+![25178d32ecba7914483159c1edf63b1f6d559543](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/22bd9eed-9351-43b2-af95-07bed33f7ea6)
+
+# Admin Show Route Function
+![b1d2a542065794f28e03a309b9c113ab56c4247b](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/1fb1d584-95bd-4a77-bc71-5e0fb66b1071)
 
 
 
