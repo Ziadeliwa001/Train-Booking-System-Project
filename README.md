@@ -48,6 +48,18 @@ This application represents a seamless integration of technology, aimed at provi
 # Show Report for all System Data
 ![44c91d53c9f6fb5690763f87127a9ea805a26d46](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/600771a3-f3a3-4657-b594-643e80596ee6)
 
+# Customer Access Console
+![29089a21acf49224426967561c9a50cc0eece86e](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/cb899c6d-a9bd-4ffe-98e5-ad822d765a36)
+![4c9f86954ba13645b6483f99c0a3772140d1e965](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/f3768299-69f5-47d6-a5fc-cf2304bc74d5)
+
+# Customer Menu
+![9292bf5ecd970e0b09bb05def9846bb1856e4f96](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/e96bbd2c-05b0-4364-bb0c-06771fde2cae)
+
+# Update Customer Information Function
+![6ecf8f9e48677c9fd44deb2d95365db5c7006a42](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/00e0d54a-595e-4118-ae8f-89885be79f42)
+
+
+
 
 
 
