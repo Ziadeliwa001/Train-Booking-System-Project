@@ -42,10 +42,10 @@ This application represents a seamless integration of technology, aimed at provi
 # Admin Show Route Function
 ![b1d2a542065794f28e03a309b9c113ab56c4247b](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/1fb1d584-95bd-4a77-bc71-5e0fb66b1071)
 
-# Update Admin Information
+# Updating Admin Information
 ![8c6bac6cf6d2be79de01c68e6793fd25f363a08d](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/adba4813-82f4-47eb-8734-8d0abcc734a1)
 
-# Show Report for all System Data
+# Showing Report for all System Data
 ![44c91d53c9f6fb5690763f87127a9ea805a26d46](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/600771a3-f3a3-4657-b594-643e80596ee6)
 
 # Customer Access Console
@@ -55,10 +55,17 @@ This application represents a seamless integration of technology, aimed at provi
 # Customer Menu
 ![9292bf5ecd970e0b09bb05def9846bb1856e4f96](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/e96bbd2c-05b0-4364-bb0c-06771fde2cae)
 
-# Update Customer Information Function
+# Updating Customer Information Function
 ![6ecf8f9e48677c9fd44deb2d95365db5c7006a42](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/00e0d54a-595e-4118-ae8f-89885be79f42)
 
+# Booking Ticket
+![ee4c32dc9780834099d951bae875c339644b8859](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/574f451e-e0ef-4b2d-94d6-02649455d82b)
 
+# Showing Seats
+![b84510b7b1df8641bc3f7dd89dec50aaff98f397](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/70189976-cb94-404d-8f5d-69db285fd29e)
+
+# Cancel Booking
+![537451e84fc7279b4b02cba998da3676b7e0c845](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/79465063-c310-4102-bc56-604a331c3c20)
 
 
 
