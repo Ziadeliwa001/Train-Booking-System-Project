@@ -13,3 +13,16 @@ User Registration & Authentication: Customers are provided with a streamlined re
 Technology Stack:
 Database Management: The application employs SQL for efficient and well-organized data storage, retrieval, and manipulation. Java (OOP & Data Structures): Java's robust object-oriented programming capabilities, combined with effective data structure implementation, guarantee the application's stability, efficiency, and scalability. JavaFX (GUI): The JavaFX framework is harnessed to craft an intuitive and user-friendly graphical interface, elevating the overall user experience.
 This application represents a seamless integration of technology, aimed at providing administrators and customers with a robust tool for effective railway management and facilitating travel
+# Home Console
+![a10df5e2cc7ef3d4e51bcbe1f2b87bb3867d2f73](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/812fd53a-4287-4174-b2f3-3af442f35aa7)
+![ce84b6e8a4673caa79f71ccee9562332833e11a5](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/fae9027a-4d4c-460b-aa52-f637cdad6c15)
+
+# Admin Access Console
+![7c84ee3820857209cbfffa41d18bef72fc718abc](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/6a1d973e-c436-4b56-a424-803930779cb8)
+![dbc9079599335d91de12c2fee7026b0801da572d](https://github.com/Ziadeliwa001/Train-Booking-System-Project/assets/92695464/3c7a785f-6d1b-4955-a5a4-9c4564ae409c)
+
+
+
+
+
+
